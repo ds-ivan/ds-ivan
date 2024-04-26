@@ -39,10 +39,10 @@
 <body>
     <div class="container">
         <header>
-            <h1>Olá, sou [Seu Nome]!</h1>
+            <h1>Olá, sou Ivan Melo!</h1>
         </header>
         <section>
-            <p>Sou um(a) entusiasta de Ciência de Dados apaixonado(a) por explorar dados, encontrar insights e construir soluções impactantes.</p>
+            <p>Sou um entusiasta de Ciência de Dados apaixonado por explorar dados, encontrar insights e construir soluções impactantes.</p>
             <p>Tenho experiência em uma variedade de tecnologias, incluindo Python, R, HTML, CSS, Power BI, SQL e Inteligência Artificial.</p>
             <p>Além disso, sou professor(a) na área de programação, compartilhando meu conhecimento e inspirando outros a mergulharem no mundo da tecnologia.</p>
             <p>Estou sempre em busca de novos desafios e oportunidades de colaboração. Se você estiver interessado em Ciência de Dados, programação ou qualquer coisa relacionada, não hesite em entrar em contato!</p>
